@@ -33,3 +33,34 @@ Considerando o cenário acima pede-se:
 - Fazer uma consulta (SELECT) que mostre todos os funcionários vinculados a um departamento específico (0,5 pontos) 
 
 - Fazer uma consulta (SELECT) de todos os funcionários vinculados a uma filial específica. (0,5 pontos)
+
+
+
+
+2- Faça a análise da situação abaixo:
+
+Um berçário deseja informatizar suas operações. Quando um bebê nasce, algumas informações são armazenadas sobre ele, tais como: nome, data do nascimento, peso do nascimento, altura, a mãe deste bebê e o médico que fez seu parto. Para as mães, o berçário também deseja manter um controle, guardando informações como: nome, endereço, telefone e data de nascimento. Para os médicos, é importante saber: CRM, nome, telefone celular e especialidade.
+
+Considerando o cenário acima pede-se:
+
+– Construir o modelo conceitual (MER), contendo: (1 ponto)
+
+    - Entidades e seus atributos;
+    - Relacionamentos;
+    - Cardinalidade.
+
+- Construir o Diagrama de Entidades e Relacionamentos (DER), contendo: (1 ponto)
+
+    - Tabelas e colunas;
+    - Chave Primária de cada tabela;
+    - Chaves Estrangeiras.
+
+- Criar as tabelas e relacionamentos no banco de dados usando o MySQL Workbench. (1 ponto)
+
+- Inserir ao menos 5 registros em cada tabela (0,5 pontos)
+
+- Fazer uma consulta que mostre ordenado pela data do nascimento o nome e o peso do bebê e o nome da mãe e do médico. (0,5 pontos)
+
+- Fazer uma consulta que mostre todos os bebês que nasceram com acompanhamento do mesmo médico (0,5 pontos)
+
+- Fazer uma consulta de todos os bebês que possuem peso inferior a 3kg. (0,5 pontos)

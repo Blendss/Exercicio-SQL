@@ -1,6 +1,5 @@
 # Exercicio-SQL
-problemas na chave estrangeira, não consigo resolver e adicionei a informação de forma manual
-
+problemas na chave estrangeira, não consigo resolver e adicionei a informação de forma manual no exercício 1, era pra usar mais chaves estrangeiras só que não saquei o modo que o exercício pedi
 
 
 1. Faça a análise da situação abaixo:

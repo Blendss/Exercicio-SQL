@@ -1,5 +1,5 @@
 # Exercicio-SQL
-problemas na chave estrangeira, não consigo resolver e adicionei a informação de forma manual no exercício 1, era pra usar mais chaves estrangeiras só que não saquei o modo que o exercício pedi
+problemas na chave estrangeira, não consigo resolver e adicionei a informação de forma manual no exercício 1, era pra usar mais chaves estrangeiras só que não saquei o modo que o exercício pediu, eu adicionei todos os arquivos da atividade porem minha duvida é realmente no SQL 1
 
 
 1. Faça a análise da situação abaixo:
